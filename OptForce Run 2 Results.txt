@@ -1,0 +1,21 @@
+Number of interventions	Set number	Force Set	Type of regulation	Min Flux in Wild-type(mmol/gDW hr)	Max Flux in Wild-type (mmol/gDW hr)	Min Flux in Mutant (mmol/gDW hr)	Max Flux in Mutant (mmol/gDW hr)	Achieved flux (mmol/gDW hr)	Objective function (mmol/gDW hr)	Minimum guaranteed for target (mmol/gDW hr)	Maximum guaranteed for target (mmol/gDW hr)	Maximum growth rate (1/hr)
+2	1	{PRMICI, HIStex}	{upregulation, knockout}	{0.092843, -0.021478}	{0.11432, 0}	{0.9945, -0.012228}	{1.0067, 0}	{0.9945, 0}	0.0255	0.0255	0.0255	0.0015
+2	2	{PRMICI, EX_his__L_e}	{upregulation, knockout}	{0.092843, 0}	{0.11432, 0.021478}	{0.9945, 0}	{1.0067, 0.012228}	{0.9945, 0}	0.0255	0.0255	0.0255	0.0015
+2	3	{IGPDH, HISt2rpp}	{upregulation, knockout}	{0.092843, -0.76246}	{0.11432, 0}	{0.9945, -0.46467}	{1.0067, 0}	{0.9945, 0}	0.0255	0.0255	0.0255	0.0015
+2	4	{PRATPP, EX_his__L_e}	{upregulation, knockout}	{0.092843, 0}	{0.11432, 0.021478}	{0.9945, 0}	{1.0067, 0.012228}	{0.9945, 0}	0.0255	0.0255	0.0255	0.0015
+2	5	{IPMD, LEUt2rpp}	{upregulation, knockout}	{0.44152, -0.76246}	{0.46176, 0}	{1.1475, -0.46467}	{1.1582, 0}	{1.1475, 0}	0.0255	0.0255	0.0255	0.0022
+2	6	{PRAMPC, EX_his__L_e}	{upregulation, knockout}	{0.092843, 0}	{0.11432, 0.021478}	{0.9945, 0}	{1.0067, 0.012228}	{0.9945, 0}	0.0255	0.0255	0.0255	0.0015
+2	7	{ATPPRT, EX_his__L_e}	{upregulation, knockout}	{0.092843, 0}	{0.11432, 0.021478}	{0.9945, 0}	{1.0067, 0.012228}	{0.9945, 0}	0.0255	0.0255	0.0255	0.0015
+2	8	{PPND, TYRtex}	{upregulation, knockout}	{0.13536, -0.014033}	{0.14939, 0}	{1.6065, -0.0075351}	{1.614, 0}	{1.6065, 0}	0.0255	0.0255	0.0255	0.0014
+2	9	{HSTPT, EX_his__L_e}	{upregulation, knockout}	{0.092843, 0}	{0.11432, 0.021478}	{0.9945, 0}	{1.0067, 0.012228}	{0.9945, 0}	0.0255	0.0255	0.0255	0.0015
+2	10	{ATPPRT, HISt2rpp}	{upregulation, knockout}	{0.092843, -0.76246}	{0.11432, 0}	{0.9945, -0.46467}	{1.0067, 0}	{0.9945, 0}	0.0255	0.0255	0.0255	0.0015
+2	11	{HISTP, HISt2rpp}	{upregulation, knockout}	{0.092843, -0.76246}	{0.11432, 0}	{0.9945, -0.46467}	{1.0067, 0}	{0.9945, 0}	0.0255	0.0255	0.0255	0.0015
+2	12	{PRATPP, HISt2rpp}	{upregulation, knockout}	{0.092843, -0.76246}	{0.11432, 0}	{0.9945, -0.46467}	{1.0067, 0}	{0.9945, 0}	0.0255	0.0255	0.0255	0.0015
+2	13	{PPND, EX_tyr__L_e}	{upregulation, knockout}	{0.13536, 0}	{0.14939, 0.014033}	{1.6065, 0}	{1.614, 0.0075351}	{1.6065, 0}	0.0255	0.0255	0.0255	0.0014
+2	14	{IPPS, EX_leu__L_e}	{upregulation, knockout}	{0.44152, 0}	{0.46176, 0.020242}	{1.1475, 0}	{1.1582, 0.010723}	{1.1475, 0}	0.0255	0.0255	0.0255	0.0022
+2	15	{PRAMPC, HIStex}	{upregulation, knockout}	{0.092843, -0.021478}	{0.11432, 0}	{0.9945, -0.012228}	{1.0067, 0}	{0.99581, 0}	0.0255	0.0255	0.0255	0.0000
+2	16	{IG3PS, EX_his__L_e}	{upregulation, knockout}	{0.092843, 0}	{0.11432, 0.021478}	{0.9945, 0}	{1.0067, 0.012228}	{0.9945, 0}	0.0255	0.0255	0.0255	0.0015
+2	17	{IPPMIb, LEUtex}	{downregulation, knockout}	{-0.46176, -0.020242}	{-0.44152, 0}	{-1.1582, -0.010723}	{-1.1475, 0}	{-1.1475, 0}	0.0255	0.0255	0.0255	0.0021
+2	18	{IPPMIb, LEUt2rpp}	{downregulation, knockout}	{-0.46176, -0.76246}	{-0.44152, 0}	{-1.1582, -0.46467}	{-1.1475, 0}	{-1.1475, 0}	0.0255	0.0255	0.0255	0.0022
+2	19	{IPMD, EX_leu__L_e}	{upregulation, knockout}	{0.44152, 0}	{0.46176, 0.020242}	{1.1475, 0}	{1.1582, 0.010723}	{1.1475, 0}	0.0255	0.0255	0.0255	0.0022
+2	20	{PRAMPC, HISt2rpp}	{upregulation, knockout}	{0.092843, -0.76246}	{0.11432, 0}	{0.9945, -0.46467}	{1.0067, 0}	{0.9945, 0}	0.0255	0.0255	0.0255	0.0015
